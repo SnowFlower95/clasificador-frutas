@@ -27,5 +27,5 @@ El objetivo es comparar el rendimiento del modelo sobre un dataset de frutas y c
 
 
 ### Licencia
-El código de este repositorio se utiliza únicamente con fines académicos en el marco del curso.
-El dataset Fruits-360 es propiedad de sus autores originales y se utiliza únicamente con fines académicos, según las condiciones indicadas en su fuente oficial.
+- El código de este repositorio se utiliza únicamente con fines académicos en el marco del curso.
+- El dataset Fruits-360 es propiedad de sus autores originales y se utiliza únicamente con fines académicos, según las condiciones indicadas en su fuente oficial.
